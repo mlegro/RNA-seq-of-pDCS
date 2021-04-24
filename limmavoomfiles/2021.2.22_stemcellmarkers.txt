@@ -1,0 +1,23 @@
+Row.names	Planmine name	Planmine species	Cell type	Marker	Genbank Accession Number	Blast additional name	Blast	evalue	Contig Location	Length
+dd_Smed_v6_1258_0_1	"Smedwi-3, Palakodeti et al. 2008"	Homo sapiens	Neoblasts	Smedwi-3	EU586258	"piwi-like RNA-mediated gene silencing 1 (Smedwi-3, Palakodeti et al. 2008)"	NP_004755.2	0	764-3046	2283
+dd_Smed_v6_659_0_1	"Smedwi-1, Reddien 2005"	Amphimedon queenslandica	Neoblasts	Smedwi-1	DQ186985	"piwi-like protein 1-like (Smedwi-1, Reddien 2005)"	XP_003382553.1	6.00E-89	197-2509	2313
+dd_Smed_v6_756_0_1	"Smedwi-2, Reddien 2005"	Homo sapiens	Neoblasts	Smedwi-2	DQ186986	"piwi-like RNA-mediated gene silencing 1 (Smedwi-2, Reddien 2005)"	NP_004755.2	3.00E-68	146-2578	2433
+dd_Smed_v6_8720_0_1	"Zfp-1, van Wolfswinkel et al. 2015"	Hydra vulgaris	Zeta-class	Zfp-1 	JQ425154	zinc finger protein 235-like	XP_002165457.2	2.00E-10	280-750	471
+dd_Smed_v6_3935_0_1	"EGR-1, van Wolfswinkel et al. 2015"		Zeta-class	Egr-1	JQ425156			0		2934
+dd_Smed_v6_5942_0_1	"SOXP-3, van Wolfswinkel et al. 2015"	Cynoglossus semilaevis	Zeta-class	soxP-3	JQ425153	transcription factor Sox-8-like	XP_008313000.1	2.00E-19	202-717	516
+dd_Smed_v6_6020_0_1	"FGFR1, van Wolfswinkel et al. 2015"	Mus musculus	Zeta-class	fgfr-1	JQ425160	fibroblast growth factor receptor 1	XP_006509077.1	7.00E-51	1339-2151	813
+dd_Smed_v6_7227_0_1	"SOXP-1, van Wolfswinkel et al. 2015"		Sigma-class	soxP-1	JQ425151			0		1825
+dd_Smed_v6_8483_0_1	"SOXP-2, van Wolfswinkel et al. 2015"		Sigma-class	soxP-2	JQ425152			0		2679
+dd_Smed_v6_11501_0_1	"INX-13, van Wolfswinkel et al. 2015"	Loa loa	Sigma-class	inx-13	JQ425145	innexin protein 13	XP_003138216.1	6.00E-51	205-1308	1104
+dd_Smed_v6_4075_0_1	"GATA456, van Wolfswinkel et al. 2015"	Ovis aries	Gamma-class	gata4/5/6	JF802198	GATA binding protein 4	XP_004005383.1	6.00E-31	1210-1659	450
+dd_Smed_v6_332_0_1	"PROG-1, Eisenhoffer et al. 2008"		Early progenitors	prog-1	JX122762			0		963
+dd_Smed_v6_920_0_1	"AGAT-1, Eisenhoffer et al. 2008"	Homo sapiens	Late progenitors	AGAT-1	AY967547	glycine amidinotransferase	NP_001473.1	4.00E-117	197-1291	1095
+dd_Smed_v6_1694_0_1	"HNF4, van Wolfswinkel et al. 2015"	Homo sapiens	Gamma-class	hnf4		hepatocyte nuclear factor 4 gamma	NP_004124.4	5.00E-108	680-1702	1023
+dd_Smed_v6_5563_0_1	"Smed-P53, van Wolfswinkel et al. 2015"	Homo sapiens	Zeta-class	Smed-p53		tumor protein p63	NP_001108453.1	2.00E-11	387-1028	642
+dd_Smed_v6_4172_0_1	"NLK-1, van Wolfswinkel et al. 2015"	Ixodes scapularis	Sigma-class	nlk-1		"protein kinase, putative"	XP_002407369.1	8.00E-110	802-1815	1014
+dd_Smed_v6_13215_0_1	"SOXB-1, van Wolfswinkel et al. 2015"	Homo sapiens	Sigma-class	SoxB-1		SRY-box 2	NP_003097.1	7.00E-38	814-1074	261
+dd_Smed_v6_13772_0_1	"PROX-1, van Wolfswinkel et al. 2015"	Homo sapiens	Gamma-class	prox-1		prospero homeobox 1	NP_002754.2	6.00E-47	1030-1515	486
+dd_Smed_v6_2716_0_1	"NKX2.2, van Wolfswinkel et al. 2015"	Ixodes scapularis	Gamma-class	nkx2.2		"homeobox protein NK-2, putative"	XP_002414321.1	2.00E-26	1189-1584	396
+dd_Smed_v6_3098_0_1	"PBX-1, van Wolfswinkel et al. 2015 "	Homo sapiens	Sigma-class	pbx-1		PBX homeobox 3	NP_006186.1	1.00E-125	284-1099	816
+dd_Smed_v6_9186_0_1	"SMAD6/7, van Wolfswinkel et al. 2015 "		Sigma-class	smad6/7				0		1229
+dd_Smed_v6_11024_0_1	"FGFR4, van Wolfswinkel et al. 2015 "	Homo sapiens	Sigma-class	fgfr-4		fibroblast growth factor receptor 4	NP_075252.2	3.00E-80	1882-2754	873

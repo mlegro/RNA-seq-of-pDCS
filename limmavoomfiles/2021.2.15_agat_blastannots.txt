@@ -1,0 +1,4 @@
+Transcript > Id	Transcript > Length	Transcript > Source	Transcript > Blast Sequence Features > evalue	Transcript > Blast Sequence Features > Blast Domain > Symbol	Transcript > Blast Sequence Features > Target Species	Transcript > Blast Sequence Features > Blast Description
+dd_Smed_v6_11843_0_1	1348	PLDB	1.00E-119	GATM AGAT AT CCDS3	Homo sapiens	glycine amidinotransferase
+dd_Smed_v6_899_0_1	1760	PLDB	4.00E-112	GATM AGAT AT CCDS3	Homo sapiens	glycine amidinotransferase
+dd_Smed_v6_920_0_1	1427	PLDB	4.00E-117	GATM AGAT AT CCDS3	Homo sapiens	glycine amidinotransferase
