@@ -1099,3 +1099,8 @@ write.table(tab, file = "2021.2.23_60vctrl_MF_topnodes.txt", sep = "\t", quote =
 #print(showGroupDensity(GOdata, goID, ranks = TRUE))
 
 ```
+
+#Session Info
+```{r, warning=FALSE, comment=NA, tidy=TRUE, tidy.opts=list(width.cutoff=60)}
+sessionInfo()
+```
